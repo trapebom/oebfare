@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
