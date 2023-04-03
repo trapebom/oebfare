@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
