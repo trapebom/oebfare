@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
