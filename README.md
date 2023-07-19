@@ -1,1 +1,1 @@
-example Google Colab
+Add OBB benchmarks to CI (#7777)
