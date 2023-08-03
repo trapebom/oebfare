@@ -1,1 +1,1 @@
-Update Dockerfile for Raspberry Pi Support (#8123)
+Add visuals in guides/distance-calculation.md (#7876)
