@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
