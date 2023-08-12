@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
