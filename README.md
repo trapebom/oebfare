@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
