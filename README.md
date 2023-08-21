@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
