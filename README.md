@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Docs partial mdformat improvements (#7378)
