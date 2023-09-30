@@ -1,1 +1,1 @@
-add logs
+Fix docs links (#7096)
