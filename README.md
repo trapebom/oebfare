@@ -1,1 +1,1 @@
-update requirements.txt
+Add YOLOv8 LibTorch C++ inference example (#7090)
