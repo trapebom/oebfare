@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Move Explorer tests to scheduled CI (#8305)
