@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
