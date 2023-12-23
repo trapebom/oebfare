@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Optimize function calls to method calls (#8507)
