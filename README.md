@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
