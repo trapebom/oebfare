@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add bgr hyperparameter (#9139)
