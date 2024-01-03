@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Add plot_images conf_thresh parameter (#8446)
