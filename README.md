@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Python refactorings and simplifications (#7549)
