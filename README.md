@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+OBB: Fix plot_images (#7592)
