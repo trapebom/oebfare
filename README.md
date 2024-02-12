@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
