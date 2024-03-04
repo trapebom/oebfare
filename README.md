@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fix RTDETR generate anchor grid out of boundary (#7247)
