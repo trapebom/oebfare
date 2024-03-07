@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Batch inference fixes (#8854)
