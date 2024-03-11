@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Update fraction arg to employ a random selection (#8234)
