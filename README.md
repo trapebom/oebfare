@@ -1,1 +1,1 @@
-New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
