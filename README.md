@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Compress docs images (#8124)
