@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Python refactorings and simplifications (#7549)
