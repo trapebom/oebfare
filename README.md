@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
