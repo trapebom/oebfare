@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
