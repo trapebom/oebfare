@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
