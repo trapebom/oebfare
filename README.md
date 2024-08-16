@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
