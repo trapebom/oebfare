@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
