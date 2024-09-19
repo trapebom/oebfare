@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
