@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Fix TypeError in check_cfg() (#9245)
