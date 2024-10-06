@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
