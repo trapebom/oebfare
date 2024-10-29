@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
